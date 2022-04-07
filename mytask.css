@@ -188,6 +188,10 @@
   position: relative;
   bottom: 123px;
   animation: title1 1s ease 1s forwards;
+  overflow:hidden;
+}
+#we{
+  overflow:hidden;
 }
 @keyframes title1 {
   0%{
