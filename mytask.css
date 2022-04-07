@@ -203,6 +203,7 @@
 }
 #we span,.titlefirstslide p{
   color: rgb(238, 238, 108);
+  overflow:hidden;
 }
 #homefirstintro{
   /* border: 1px solid red; */
